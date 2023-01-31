@@ -1,5 +1,5 @@
 # My Resume
-Hello, my name is Stanislav Mashyn. I'm experienced software engineer. 
+Hello, my name is **Stanislav Mashyn**. I'm experienced software engineer. 
 I've been starting my carrier in 2010 and still continue growing up. 
 I'd love challenges and glad to provide best solution for my clients. 
 My strong ability is to determine what customer wants and to provide the better vision and solution according of my experience.
