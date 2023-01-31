@@ -48,13 +48,13 @@ Also it's not a final list because as usual developers can do more things :)
 ## Work Experience
 
 ### [2015 - NOW] - Lead Software Engineer at [SoftServe](https://www.softserveinc.com)
-My main language for that period is javascript. I've build so much different platforms and received a lot of experience here.
-* As usual worked by SCRUM but sometimes was a Kanban. A lot of scrum activities.
+My main language for that period is javascript. I've built so many different platforms and received a lot of experience here.
+* As usual worked for SCRUM but sometimes was a Kanban. A lot of scrum activities.
 * Have a small team with several developers, qa and aqa.
-* Supports simultaneously more that 10 different UI microservices. Build common libraries for frontend and backend sides.
+* Supports simultaneously more than 10 different UI microservices. Build common libraries for frontend and backend sides.
 * Cover UI microservices by unit, integration and e2e tests (jest, mocha, cypress). Build plan for covering an old microservices.
 * Create the design system with UI/UX designer and provide a plan of migration. Used step-by-step migration for huge microservices.
-* Create migrate plan for libraries. Also have moved from different frameworks such as (from reflux to redux or from redux to react query)
+* Create a migration plan for libraries. Also have moved from different frameworks such as (from reflux to redux or from redux to react query)
 * CI/CD pipelines. Build and support pipelines. Used different plugins in jenkins.
 * Work with the java microservices.
 * Tons of technical documentation.
