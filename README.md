@@ -1,12 +1,11 @@
 # My Resume
+Hello, my name is Stanislav Mashyn. I'm experienced software engineer. 
+I've been starting my carrier in 2010 and still continue growing up. 
+I'd love challenges and glad to provide best solution for my clients. 
+My strong ability is to determine what customer wants and to provide the better vision and solution according of my experience.
 
-Hello, my name is ***Stanislav Mashyn***. I'm experienced software engineer.
-I've been starting my carrier since 2010 and still continue growing up.
-I'd love to do challenges and glad to provide best solution for my clients.
-My strong ability is to determine what customer want to provide the better vision and solution according of my experience.
-
-I'm music lover, love to attend musician festivals and meet with new people.
-In my free time I could spent an evening playing computer games. Also I'd like to build plans for my future travels.
+I'm music lover, love to attend musician festivals and meet with new people. 
+In my free time I could spent an evening playing computer games. Also I like to build plans for my feature travels.
 
 I have kids and beautiful wife :)
 
@@ -77,3 +76,9 @@ Have experience with email templates and mobile versions.
 Also built some templates for frameworks or CMS systems.
 
 Tags: HTML5, CSS3, Bootstrap, Responsive, Web Accessibility, Mobile, Templates
+
+### Contact
+
+You could contact me by email: [sammusicdnb@gmail.com](mailto:sammusicdnb@gmail.com)
+
+Thanks
