@@ -1,7 +1,7 @@
 # My Resume
 Hello, my name is **Stanislav Mashyn**. I'm experienced software engineer. 
 I started my career in 2010 and still continue growing up. 
-I'd love challenges and glad to provide best solution for my clients. 
+I love challenges and glad to provide best solution for my clients. 
 My strong ability is to determine what customer wants and to provide the better vision and solution according of my experience.
 
 I'm music lover, love to attend musician festivals and meet with new people. 
