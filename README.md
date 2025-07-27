@@ -31,7 +31,9 @@ Also it's not a final list because as usual developers can do more things :)
 | Webpack / Parcel / Vitejs | Bundle my code for production.                                    | 10             |
 | NodeJS                    | My main setup                                                     | 9              |
 | Express.js                | Most used and simple server for all my time                       | 10             |
-| GraphQL                   | Technology which helps to build an API                            | 6              |
+| Next.js                   | Allow us to create "in 3 clicks" a working service                | 8              |
+| Nest.js                   | Lightweight simple solution for creating API                      | 6              |
+| GraphQL                   | Technology which helps to build an API                            | 8              |
 | Docker                    | Everything will be in container                                   | 8              |
 | Kubernetes                | Container Orchestration                                           | 8              |
 | AWS                       | Bunch of useful services                                          | 7              |
@@ -47,7 +49,21 @@ Also it's not a final list because as usual developers can do more things :)
 
 ## Work Experience
 
-### [2015 - NOW] - Lead Software Engineer at [SoftServe](https://www.softserveinc.com)
+### [2023 - NOW] - Senior Software Engineer
+My main responsibility is to support several services which are combined by graphql. I've done the multiple refund flow for customer compensation.
+* SCRUM
+* Next.js everywhere
+* work with design system + Figma
+* Graphql + working with improvements for schema
+* CI/CD pipelines
+* mjml email framework
+* Cypress e2e/integrtation tests
+* jest/vitest unit tests
+* technical documentation
+
+Tags: Typescript, React, Next.js, GraphQL, NodeJS, Agile, AWS, Docker
+
+### [2015 - 2023] - Lead Software Engineer in [SoftServe](https://www.softserveinc.com)
 My main language for that period is javascript. I've built so many different platforms and received a lot of experience here.
 * As usual worked for SCRUM but sometimes was a Kanban. A lot of scrum activities.
 * Have a small team with several developers, qa and aqa.
@@ -61,7 +77,7 @@ My main language for that period is javascript. I've built so many different pla
 
 Tags: Javascript, Typescript, React, Angular, NodeJS, Agile, Bash, AWS, EKS, Docker, Groovy, Java 
 
-### [2011 - 2015] - Senior Web Developer at [JustCoded](https://justcoded.com/)
+### [2011 - 2015] - Senior Web Developer in [JustCoded](https://justcoded.com/)
 My main responsibilities were to work with PHP frameworks (symfony, yii) and CMS systems (drupal, wordpress, magento).
 Also here I have met with Javascript and started to do more staff on the frontend. 
 Integrations with facebook or google services. Started working with angularjs and nodejs on the backend side.
@@ -69,7 +85,7 @@ Passed a certification for MongoDB.
 
 Tags: PHP, Symfony, Drupal, Wordpress, AngularJS, NodeJS
 
-### [2010 - 2011] - Senior Markup Developer at W3 Ukraine
+### [2010 - 2011] - Senior Markup Developer in W3 Ukraine
 My main responsibility was to build the HTML and CSS web pages for the short period of time.
 These pages should have cross browser support, responsive, web accessibility with the compatibility of IE6 (oh it was hard) and all other browsers.
 Have experience with email templates and mobile versions.
@@ -79,6 +95,6 @@ Tags: HTML5, CSS3, Bootstrap, Responsive, Web Accessibility, Mobile, Templates
 
 ### Contact
 
-You could contact me by email: [sammusicdnb@gmail.com](mailto:sammusicdnb@gmail.com)
+You could contact me by email: [stanislav.mashyn@gmail.com](mailto:stanislav.mashyn@gmail.com)
 
 Thanks
